@@ -1,0 +1,26 @@
+body {
+margin:20px;
+    width:100%;
+  background-color:#dcdcdc;
+  padding:20px;
+}
+.container{
+width:95%;
+border:1px solid #d9d9d9;
+background-color:#fff;
+}
+.img{
+width:100%;
+}
+.text-center{
+text-align:center;
+
+}
+.link{
+text-decoration:none;
+}
+.text-center
+.link:hover{
+color:red;
+text-decoration:none; 
+}
